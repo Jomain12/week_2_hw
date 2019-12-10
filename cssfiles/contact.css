@@ -1,0 +1,73 @@
+.navbar {
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    top: 10px;
+}
+
+
+.head {
+    
+}
+
+h1 {
+    padding-top: 10px;
+    background-color: teal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-header1 {
+    background-color: teal;
+    margin-bottom: 0px;
+    color: teal;
+
+}
+
+.card-body1 {
+    background-color: grey;
+    color: grey;
+
+}
+
+.name {
+    background-color: teal;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.hrr {
+    position: relative;
+    top: -16px
+}
+
+p {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    word-spacing: 10px;
+    line-height: 28px;
+}
+
+.card1 {
+    position: fixed;
+    bottom: 0px;
+    z-index: -1;
+    overflow: hidden;
+    width: 60%;
+}
+
+.card-title5 {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: teal;
+}
+
+.button {
+    background-color: teal;
+    color: white;
+}
+
