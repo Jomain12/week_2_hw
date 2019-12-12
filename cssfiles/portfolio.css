@@ -48,11 +48,9 @@ p {
 }
 
 .card1 {
-    position: fixed;
-    bottom: 0px;
-    z-index: -1;
-    overflow: hidden;
-    width: 60%;
+    
+    
+    width: 100%;
 }
 
 .card-title5 {
@@ -68,6 +66,8 @@ p {
 
 img {
     padding: 15px;
+    height: 250px;
+    width: 350px;
 }
 
 .container1 {
@@ -82,14 +82,17 @@ img {
     bottom: 24px;
     left: 15px;
     background-color: teal;
-    padding: 5px 40px 5px 47px;
-  }
+    padding: 5px 0px 5px 0px;
+    width: 320px;
+    text-align: center;
+}
+  
 
   .container2 {
     position: relative;
     text-align: left;
     color: white;
-    float: left;
+    float: right;
 }
 
 .imagetext2 {
@@ -97,8 +100,11 @@ img {
     bottom: 24px;
     left: 15px;
     background-color: teal;
-    padding: 5px 40px 5px 47px;
-  }
+    padding: 5px 0px 5px 0px;
+    width: 320px;
+    text-align: center;
+}
+  
 
   .container3 {
     position: relative;
@@ -112,14 +118,16 @@ img {
     bottom: 24px;
     left: 15px;
     background-color: teal;
-    padding: 5px 40px 5px 47px;
-  }
+    padding: 5px 0px 5px 0px;
+    width: 320px;
+    text-align: center;
+}
 
   .container4 {
     position: relative;
     text-align: left;
     color: white;
-    float: left;
+    float: right;
 }
 
 .imagetext4 {
@@ -127,9 +135,10 @@ img {
     bottom: 24px;
     left: 15px;
     background-color: teal;
-    padding: 5px 40px 5px 47px;
-  }
-
+    padding: 5px 0px 5px 0px;
+    width: 320px;
+    text-align: center;
+}
   .container5 {
     position: relative;
     text-align: left;
@@ -142,5 +151,7 @@ img {
     bottom: 24px;
     left: 15px;
     background-color: teal;
-    padding: 5px 40px 5px 47px;
-  }
+    padding: 5px 0px 5px 0px;
+    width: 320px;
+    text-align: center;
+}
